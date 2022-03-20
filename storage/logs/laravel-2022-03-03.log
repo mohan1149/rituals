@@ -1,0 +1,4 @@
+[2022-03-03 14:03:43] live.EMERGENCY: File:/home3/ritualss/public_html/pos/app/Utils/ProductUtil.phpLine:512Message:Trying to get property 'product_type' of non-object  
+[2022-03-03 14:03:46] live.EMERGENCY: File:/home3/ritualss/public_html/pos/app/Utils/ProductUtil.phpLine:512Message:Trying to get property 'product_type' of non-object  
+[2022-03-03 14:03:48] live.EMERGENCY: File:/home3/ritualss/public_html/pos/app/Utils/ProductUtil.phpLine:512Message:Trying to get property 'product_type' of non-object  
+[2022-03-03 14:03:50] live.EMERGENCY: File:/home3/ritualss/public_html/pos/app/Utils/ProductUtil.phpLine:512Message:Trying to get property 'product_type' of non-object  
